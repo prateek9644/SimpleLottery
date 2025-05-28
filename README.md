@@ -10,7 +10,7 @@ To create a transparent and trustless lottery system on the blockchain that ensu
 - Fixed entry fee for all and each participants
 - Manager-only function to pick a winner
 - Random winner selection based on blockchain variables (note: not secure for production)
-- Automatic payout of the contract balance to the winner
+- Automatic payout of the contract balance to the winner and 
 - Lottery history tracking by lottery ID
 
 ## Future Scope
