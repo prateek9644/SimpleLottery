@@ -1,7 +1,7 @@
 # SimpleLottery
 
 ## Project Description
-SimpleLottery is a basically a decentralized lottery smart contract where the participants can enter by paying a fixed entry fee amount. The contract manager can then  pick a winner randomly who receives the entire balance of the contract.
+SimpleLottery is a basically a decentralized lottery smart contract where the participants can enter by paying a fixed entry fee amount. The contract manager can then  pick a winner randomly who receives the entire balance of the  contract.
 
 ## Project Vision
 To create a transparent and trustless lottery system on the blockchain that ensures fairness and easy participation without intermediaries.
