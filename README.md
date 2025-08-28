@@ -7,7 +7,7 @@ SimpleLottery is a basically a  decentralized lottery smart contract where the p
 To create a transparent and trustless lottery system on the blockchain that ensures fairness and easy participation without intermediaries.
 
 ## Key Feature's
-- Fixed entry fee for  all of  , them and each participants
+- Fixed entry fee for   all of  , them and each participants
 - Manager-only function to pick a winner
 - Random winner selection based on blockchain variables (note: not secure for production)
 - Automatic payout of the contract balance to the winner and 
