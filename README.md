@@ -14,7 +14,7 @@ To create a transparent and trustless lottery system on the blockchain that ensu
 - Lottery history tracking by lottery ID
 
 ## Future Scope
-- Integrate secure randomness using Chainlink VRF or similar oracle services
+- Integrate secure randomness  using Chainlink VRF or similar oracle services
 - Add multiple lottery rounds with different entry fees and prizes
 - Enable participant refunds if minimum players not reached
 - Build a frontend interface for easier participation and results viewing
